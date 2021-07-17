@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "redux": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts":{
+    "dev": "nodemon ./index.js"
+  },
+  "type": "module"
+}
